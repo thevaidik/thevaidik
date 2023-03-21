@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thevaidik
-- 👀 I’m interested in developing startups
-- 🌱 I’m currently learning dsa
+- 👀 I’m interested in  startups
+- 🌱 Javascript developer - frontend, backend. 
 
 
 <!---
