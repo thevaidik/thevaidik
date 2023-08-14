@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @thevaidik
 - 👀 I’m interested in  startups
 - 🌱 Javascript developer - frontend, backend. 
+- testing read me edit
 
 
 <!---
