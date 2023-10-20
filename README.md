@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @thevaidik
-- 👀 I’m interested in  startups
-- 🌱 Javascript developer - frontend, backend. 
-- testing read me edit
+- 👋 Hi,@thevaidik here 
+- 👀 I’m interested in startups/innovative ideas
+- 🌱 iOS developer / backend. 
+- Fascinated with consciousness 
 
 
 <!---
