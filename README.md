@@ -1,6 +1,6 @@
 - 👋 Hi,@thevaidik here 
 - 👀 I’m interested in startups/innovative ideas
-- 🌱 iOS developer / backend. 
+- 🌱 iOS developer / flutter. 
 - Fascinated with consciousness 
 
 
