@@ -1,5 +1,4 @@
-- 👋 Hi,@thevaidik here 
--  interested in startups/innovative ideas
+- 👋 Hi, X - @thevaidik_ here 
 - 🍎 iOS developer / swift stuff
 - Fascinated with consciousness 
 - Feel free to approach me , for any intersting work/projects. !
