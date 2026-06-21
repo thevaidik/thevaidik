@@ -1,5 +1,6 @@
 - 👋 Hi, X - @thevaidik_ here 
-- 🍎 iOS developer / swift stuff
+- 🍎 iOS macOS developer / swift 
+- exploring Rust 
 - Fascinated with consciousness 
 - Feel free to approach me , for any intersting work/projects. !
 
