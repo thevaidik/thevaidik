@@ -1,8 +1,10 @@
 - 👋 Hi, X - @thevaidik_ here 
 - 🍎 iOS macOS developer / swift 
 - exploring Rust 
-- Fascinated with consciousness 
+- XMPP and 3d modeling stuff in free time, 
 - Feel free to approach me , for any intersting work/projects. !
+
+- more about me on www.vaidik.blog
 
 
 <!---
